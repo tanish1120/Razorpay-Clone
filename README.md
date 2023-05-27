@@ -31,7 +31,7 @@
 <p>If you have any questions, feedback, or suggestions, please feel free to reach out:</p>
 
 <ul>
-  <li>Tanish Rathore: <a href="https://github.com/tanish1120">GitHub</a>, <a href="https://linkedin.com/tanishrathore">LinkedIn</a></li>
+  <li>Tanish Rathore: <a href="https://github.com/tanish1120">GitHub</a>, <a href="https://www.linkedin.com/in/tanishrathore">LinkedIn</a></li>
 </ul>
 
 <p>Thank you for exploring the Razorpay Website Clone with Tailwind CSS!</p>
